@@ -70,16 +70,16 @@ html {
     font-style: italic;
     text-decoration: none;
 }
-a[href]:visited {
+a:visited {
     color: var(--color-dark-grey);
     font-style: italic;
 }
-a[href]:hover {
+a:hover {
     color: var(--color-primary);
     text-decoration: underline;
     font-style: italic;
 }
-a[href]:active {
+a:active {
     color: var(--color-black);
     font-style: italic;
     background-color: var(--color-light-grey);
