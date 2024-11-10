@@ -65,7 +65,7 @@ html {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
   }
-  a[href] {
+  a:link {
     color: var(--text-color);
     font-style: italic;
     text-decoration: none;
